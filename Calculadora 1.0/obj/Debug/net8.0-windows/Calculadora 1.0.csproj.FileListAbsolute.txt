@@ -1,0 +1,17 @@
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\bin\Debug\net8.0-windows\Calculadora 1.0.exe
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\bin\Debug\net8.0-windows\Calculadora 1.0.deps.json
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\bin\Debug\net8.0-windows\Calculadora 1.0.runtimeconfig.json
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\bin\Debug\net8.0-windows\Calculadora 1.0.dll
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\bin\Debug\net8.0-windows\Calculadora 1.0.pdb
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.Form1.resources
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.csproj.GenerateResource.cache
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.AssemblyInfoInputs.cache
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.AssemblyInfo.cs
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.sourcelink.json
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.dll
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\refint\Calculadora 1.0.dll
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.pdb
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\Calculadora 1.0.genruntimeconfig.cache
+C:\Users\Victor M\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\documentos del ITLA\Fundamentos de Programacion c2\Calculadoradefi\obj\Debug\net8.0-windows\ref\Calculadora 1.0.dll
